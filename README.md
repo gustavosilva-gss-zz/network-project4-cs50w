@@ -22,7 +22,7 @@ By clicking on the username displayed on a post card, users will be taken to the
     * Won't appear if the user is viewing their own page
 
 ### **Following**
-By clicking on the "Following" button on the navigation bar, users will be taken to the route `/following` (ony if they are logged in). If the user follows anyone, the page will show the posts made by those the user follows.
+By clicking on the "Following" button on the navigation bar, users will be taken to the route `/following` (only if they are logged in). If the user follows anyone, the page will show the posts made by those the user follows.
 
 
 ### **Pagination**
