@@ -1,0 +1,37 @@
+body {
+    margin-left: 10px;
+    margin-right: 10px; 
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+.ignore-padding {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.card {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.post-card, .user-status, .pagination {
+    margin-top: 10px;
+}
+
+.user-status {
+    align-items: center; 
+    margin-right: 0;
+}
+
+.pagination {
+    align-items: center;
+}
